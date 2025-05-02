@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Áries é o primeiro signo do zodíaco, regido por Marte. Os arianos são conhecidos por serem determinados, corajosos e energéticos. Tendem a ser líderes naturais com personalidade forte e entusiasmo contagiante.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Touro é o segundo signo do zodíaco, regido por Vênus. Os taurinos são conhecidos pela determinação, praticidade e sensualidade. Valorizam conforto material, estabilidade e apreciam os prazeres da vida.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>Gêmeos é o terceiro signo do zodíaco, regido por Mercúrio. Os geminianos são conhecidos pela versatilidade, curiosidade e comunicação. São intelectuais, adaptáveis e têm facilidade para lidar com múltiplas tarefas.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>Câncer é o quarto signo do zodíaco, regido pela Lua. Os cancerianos são conhecidos pela sensibilidade emocional, intuição e forte ligação familiar. São protetores, românticos e valorizam a segurança emocional.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Leão é o quinto signo do zodíaco, regido pelo Sol. Os leoninos são conhecidos pelo carisma, confiança e generosidade. Têm personalidade marcante, são criativos e adoram ser o centro das atenções.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Virgem é o sexto signo do zodíaco, regido por Mercúrio. Os virginianos são conhecidos pela praticidade, atenção aos detalhes e organização. São analíticos, perfeccionistas e dedicados ao trabalho bem feito.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Libra é o sétimo signo do zodíaco, regido por Vênus. Os librianos são conhecidos pelo senso de justiça, diplomacia e apreço pela harmonia. São sociáveis, charmosos e buscam equilíbrio em todas as áreas da vida.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Escorpião é o oitavo signo do zodíaco, regido por Plutão e Marte. Os escorpianos são conhecidos pela intensidade emocional, perspicácia e determinação. São passionais, misteriosos e possuem grande força interior.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Sagitário é o nono signo do zodíaco, regido por Júpiter. Os sagitarianos são conhecidos pelo otimismo, espírito aventureiro e busca por conhecimento. São francos, filosóficos e amantes da liberdade.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Capricórnio é o décimo signo do zodíaco, regido por Saturno. Os capricornianos são conhecidos pela ambição, disciplina e senso de responsabilidade. São perseverantes, práticos e focados em objetivos de longo prazo.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>19/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Aquário é o décimo primeiro signo do zodíaco, regido por Urano e Saturno. Os aquarianos são conhecidos pela originalidade, independência e visão humanitária. São inovadores, progressistas e valorizam a liberdade intelectual.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>20/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Peixes é o décimo segundo signo do zodíaco, regido por Netuno e Júpiter. Os piscianos são conhecidos pela sensibilidade, intuição e compaixão. São sonhadores, românticos e possuem grande capacidade empática.</descricao>
+    </signo>
+</signos>
